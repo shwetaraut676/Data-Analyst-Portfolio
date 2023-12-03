@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-## a dynamic collection of projects showcasing comprehensive data cleaning, analysis, and captivating visualizations, sculpting a portfolio that reveals the stories hidden within the numbers.
+### a dynamic collection of projects showcasing comprehensive data cleaning, analysis, and captivating visualizations, sculpting a portfolio that reveals the stories hidden within the numbers.
 
 ### Project 1: Data Cleaning with Pandas
 
